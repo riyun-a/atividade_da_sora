@@ -1,0 +1,29 @@
+<<<<<<< HEAD
+olá mundo, meu nome é Andressa.
+Eu
+sou
+do 
+curso
+de
+TDS
+
+olá
+=======
+olá mundo, meu nome é Andressa.[]
+
+
+
+
+
+
+
+
+
+
+aushauhsa
+aushausha
+aushauhs
+aushuahs
+aushaus
+auhsauhs
+>>>>>>> 7b6051fc3b01d0354831a94be5bea1bf0b068b3d
